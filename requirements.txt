@@ -12,6 +12,7 @@ python-dotenv==0.20.0
 gunicorn==20.1.0
 honcho==1.1.0
 Flask-Talisman==0.8.1
+Flask-Cors==4.0.1
 
 # Code quality
 pylint==2.14.0
