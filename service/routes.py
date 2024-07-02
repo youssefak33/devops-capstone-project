@@ -135,7 +135,7 @@ def delete_accounts(account_id):
     return "", status.HTTP_204_NO_CONTENT
 
 ######################################################################
-#  U T I L I T Y   F U N C T I O N S
+#  U T I L I T Y   F U N C T I O N S 
 ######################################################################
 
 
